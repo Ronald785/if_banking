@@ -60,9 +60,9 @@ Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre d
 ## 🗺️ Diagramas  
 - Diagramas
   - Casos de Uso
-    <br><img src="./img/casos_de_uso.jpg" width="500px;" alt=""/>
+    <br><img src="./img/uso.jpg" width="500px;" alt=""/>
   - Diagrama de Classes
-    <br><img src="./img/IF_banking.png" width="500px;" alt=""/>
+    <br><img src="./img/classe.png" width="500px;" alt=""/>
   - Diagrama de Contexto
     <br><img src="./img/contexto.jpg" width="500px;" alt=""/>
   - Diagrama de Container
