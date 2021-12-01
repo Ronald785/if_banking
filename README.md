@@ -107,7 +107,11 @@ Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre d
   - Diagrama de Classes
     <br><img src="./img/IF_banking.png" width="500px;" alt=""/>
   - Diagrama de Contexto
-    <br><img src="./img/diagrama_contexto.jpg" width="500px;" alt=""/>
+    <br><img src="./img/contexto.jpg" width="500px;" alt=""/>
+  - Diagrama de Container
+    <br><img src="./img/container.jpeg" width="500px;" alt=""/>
+  - Diagrama de Componente
+    <br><img src="./img/component.jpeg" width="500px;" alt=""/>
  
 
 ## 👨🏽‍🎓 Integrantes
