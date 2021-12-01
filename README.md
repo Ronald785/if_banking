@@ -26,18 +26,88 @@ Tecnologias utilizadas:
 - [VS Code](https://code.visualstudio.com/)
 - [Eclipse](https://www.eclipse.org/)
 - [Git](https://git-scm.com/)
+- [Hibernate](https://hibernate.org/)
+- [Vraptor](https://www.vraptor.org/pt/)
 
 ## 💻 Sobre
 Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre do IFSP. O objetivo do nosso sistema é desenvolver uma interface bancária simples e intuitiva para os usuários. Dessa forma, eles poderão realizar saques, depósitos e transferências de forma rápida e fácil. 
+
+<br>
+
+<h2 align="center">
+    Interface
+</h2>
+<br>
+  <br>
+<ul>
+  <li>
+  O sistema possuirá área de cadastro e login.
+   <ul>
+      <li><img src="./img/login.png" width="500px;"></li>
+      <li><img src="./img/cadastro.png" width="500px;"></li>
     
+   </ul>
+  </li>
+  <br>
+  <br>
+  <li>
+  Haverá um painel principal interativo, contendo gráficos e informações relevantes.
+  <ul>
+      <li><img src="./img/painel.png" width="500px;"></li>
+  </ul>
+  </li>
+  <br>
+  <br>
+  <li>
+  Áreas destinadas aos saques, depósitos e transferêcias.
+  <ul>
+      <li><img src="./img/saque.png" width="500px;"></li>
+      <li><img src="./img/deposito.png" width="500px;"></li>
+      <li><img src="./img/transferir.png" width="500px;"></li>
+  </ul>
+  </li>
+  <br>
+  <br>
+  <li>
+  Aba de histórico de transações.
+  <ul>
+      <li><img src="./img/transacoes.png" width="500px;"></li>
+  </ul>
+  </li>
+</ul>
+
+<br>
+
+<h3 align="center">
+    Padrões de Arquiteturais
+</h3>
+<ul>
+  <li>MVC</li>
+  <li>DAO</li>
+</ul>
+
+<br>
+
+<h3 align="center">
+    Padrões de Projeto
+</h3>
+<ul>
+  <li>Factory</li>
+  <li>Strategy</li>
+  <li>Observer</li>
+</ul>
+
+<br>
+ 
+
 ## 🗺️ Diagramas  
 - Diagramas
   - Casos de Uso
-    <br><img src="https://github.com/Ronald785/if_banking/blob/main/img/IF_banking_casos_.png" width="500px;" alt="" style="border-radius:50%"/>
+    <br><img src="./img/casos_de_uso.jpg" width="500px;" alt=""/>
   - Diagrama de Classes
-    <br><img src="https://github.com/Ronald785/if_banking/blob/main/img/IF_banking.png" width="500px;" alt="" style="border-radius:50%"/>
+    <br><img src="./img/IF_banking.png" width="500px;" alt=""/>
   - Diagrama de Contexto
-    <br><img src="https://github.com/Ronald785/if_banking/blob/main/img/diagrama_contexto.jpeg" width="500px;" alt="" style="border-radius:50%"/>
+    <br><img src="./img/diagrama_contexto.jpg" width="500px;" alt=""/>
  
 
 ## 👨🏽‍🎓 Integrantes
