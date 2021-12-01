@@ -33,6 +33,44 @@ Tecnologias utilizadas:
 Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre do IFSP. O objetivo do nosso sistema é desenvolver uma interface bancária simples e intuitiva para os usuários. Dessa forma, eles poderão realizar saques, depósitos e transferências de forma rápida e fácil. 
 
 <br>
+<br>
+
+<h3 align="center">
+    Padrões de Arquiteturais
+</h3>
+<ul>
+  <li>MVC</li>
+  <li>DAO</li>
+</ul>
+
+<br>
+
+<h3 align="center">
+    Padrões de Projeto
+</h3>
+<ul>
+  <li>Factory</li>
+  <li>Strategy</li>
+  <li>Observer</li>
+</ul>
+
+<br>
+ 
+
+## 🗺️ Diagramas  
+- Diagramas
+  - Casos de Uso
+    <br><img src="./img/casos_de_uso.jpg" width="500px;" alt=""/>
+  - Diagrama de Classes
+    <br><img src="./img/IF_banking.png" width="500px;" alt=""/>
+  - Diagrama de Contexto
+    <br><img src="./img/contexto.jpg" width="500px;" alt=""/>
+  - Diagrama de Container
+    <br><img src="./img/container.jpeg" width="500px;" alt=""/>
+  - Diagrama de Componente
+    <br><img src="./img/component.jpeg" width="500px;" alt=""/>
+ 
+ <br>
 
 <h2 align="center">
     Interface
@@ -76,43 +114,7 @@ Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre d
   </li>
 </ul>
 
-<br>
 
-<h3 align="center">
-    Padrões de Arquiteturais
-</h3>
-<ul>
-  <li>MVC</li>
-  <li>DAO</li>
-</ul>
-
-<br>
-
-<h3 align="center">
-    Padrões de Projeto
-</h3>
-<ul>
-  <li>Factory</li>
-  <li>Strategy</li>
-  <li>Observer</li>
-</ul>
-
-<br>
- 
-
-## 🗺️ Diagramas  
-- Diagramas
-  - Casos de Uso
-    <br><img src="./img/casos_de_uso.jpg" width="500px;" alt=""/>
-  - Diagrama de Classes
-    <br><img src="./img/IF_banking.png" width="500px;" alt=""/>
-  - Diagrama de Contexto
-    <br><img src="./img/contexto.jpg" width="500px;" alt=""/>
-  - Diagrama de Container
-    <br><img src="./img/container.jpeg" width="500px;" alt=""/>
-  - Diagrama de Componente
-    <br><img src="./img/component.jpeg" width="500px;" alt=""/>
- 
 
 ## 👨🏽‍🎓 Integrantes
 <table>
