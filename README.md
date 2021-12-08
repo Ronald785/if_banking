@@ -64,7 +64,7 @@ Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre d
   - Diagrama de Classes
     <br><img src="./img/classe.png" width="500px;" alt=""/>
   - Modelo C4
-    <br><img src="./img/c4_model.JPG" width="500px;" alt=""/>
+    <br><img src="./img/c4_model.png" width="500px;" alt=""/>
  
  <br>
 
