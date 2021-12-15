@@ -62,7 +62,7 @@ Sistema bancário desenvolvido para o projeto interdisciplinar no 4º semestre d
   - Casos de Uso
     <br><img src="./img/uso.jpg" width="500px;" alt=""/>
   - Diagrama de Classes
-    <br><img src="./img/classe.png" width="500px;" alt=""/>
+    <br><img src="./img/class.png" width="500px;" alt=""/>
   - Modelo C4
     <br><img src="./img/c4_model.png" width="500px;" alt=""/>
  
